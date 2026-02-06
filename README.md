@@ -50,7 +50,7 @@ GEMINI_API_KEY=your_gemini_api_key_here
 ```Bash
 python test_notion.py
 ```
-📌 Usage Rules (형식 규칙)
+## 📌 Usage Rules (형식 규칙)
 본 프로젝트는 가독성 높은 노션 정리를 위해 다음 규칙을 준수합니다:
 
 #: 문서 대제목
@@ -61,9 +61,9 @@ python test_notion.py
 
 *** **: 목록 기호
 
-💡 / 📌 이모지: 강조 기호(**) 대신 이모지를 사용하여 가독성을 높입니다.
+## 💡 / 📌 이모지: 강조 기호(**) 대신 이모지를 사용하여 가독성을 높입니다.
 
-👨‍💻 Author
+## 👨‍💻 Author
 황우혁 (Hwang Woo Hyeok)
 
 숭실대학교 컴퓨터학부 (Soongsil Univ. Computer Science)

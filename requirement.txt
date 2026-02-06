@@ -1,0 +1,5 @@
+google-genai
+notion-client
+python-dotenv
+requests
+pillow

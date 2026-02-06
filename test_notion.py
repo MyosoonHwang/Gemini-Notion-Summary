@@ -144,7 +144,7 @@ if target_id:
 )
             print("📸 이미지 데이터 로드 및 전처리 완료")
 
-    print(f"🤖 Gemini 3.0 Pro 분석 시작...")
+    print(f"🤖 Gemini 분석 시작...")
     response = gemini.models.generate_content(
         model="gemini-1.5-flash", # 복잡한 추론에 강한 Pro 모델 권장
         contents=gemini_contents
